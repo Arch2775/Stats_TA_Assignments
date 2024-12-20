@@ -1,5 +1,5 @@
 # Stats_TA_Assignments
-coding assignments, datathon and TB pdf for Mathematics for CS Engineers (probability and statistics) course. 
+coding assignments, datathon created for TA work and TB pdf for Mathematics for CS Engineers (probability and statistics) course. 
 
 ## Assignment Topics: 
 
