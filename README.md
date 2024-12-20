@@ -11,4 +11,8 @@ coding assignments, datathon and TB pdf for Mathematics for CS Engineers (probab
 6. Assignment 6 - Linear regression
 7. Assignment 7 - Chi-square test
 8. Assignment 8 - type-1,2 errors
+
+## Datathon:
+
+hackathon-style questions with a given dataset for all the above topics.
    
