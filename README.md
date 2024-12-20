@@ -1,7 +1,7 @@
 # Stats_TA_Assignments
 coding assignments, datathon created for TA work and TB pdf for Mathematics for CS Engineers (probability and statistics) course. 
 
-## Assignment Topics: 
+## 1. Assignment Topics: 
 
 1. Assignment 1 - Poisson distribution
 2. Assignment 2 - Statistical measures
@@ -12,11 +12,11 @@ coding assignments, datathon created for TA work and TB pdf for Mathematics for 
 7. Assignment 7 - Chi-square test
 8. Assignment 8 - type-1,2 errors
 
-## Datathon:
+## 2. Datathon:
 
 hackathon-style questions with a given dataset for all the above topics.
 
-### stats TB and solution pdf
+## 3. stats TB and solution pdf
 
-### tutorial questions
+## 4. tutorial questions
    
