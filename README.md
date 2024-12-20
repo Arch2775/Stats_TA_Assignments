@@ -15,4 +15,8 @@ coding assignments, datathon created for TA work and TB pdf for Mathematics for 
 ## Datathon:
 
 hackathon-style questions with a given dataset for all the above topics.
+
+### stats TB and solution pdf
+
+### tutorial questions
    
